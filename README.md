@@ -1,1 +1,1 @@
-# COVID-2019 Article delayed by arxiv.org
+# COVID-2019 Article rejected by arxiv.org
