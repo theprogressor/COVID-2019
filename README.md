@@ -1,1 +1,1 @@
-# COVID-2019 Article rejected by arxiv.org
+# COVID-19 short message
